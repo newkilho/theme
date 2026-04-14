@@ -98,15 +98,7 @@
 	background-image: linear-gradient(to bottom, #fff7ae 0%, #c2ffd9 100%);
 */
 background-image: repeating-linear-gradient(
-  120deg,
-  #faf3ff 0px,     /* 라이트 라벤더 */
-  #faf3ff 24px,
-  #e3fcef 24px,    /* 라이트 민트 */
-  #e3fcef 48px,
-  #f7f8fa 48px,    /* 라이트 그레이 */
-  #f7f8fa 72px,
-  #ffe8ec 72px,    /* 연한 핑크 */
-  #ffe8ec 96px
+  120deg, #faf3ff 0px, #faf3ff 24px, #e3fcef 24px, #e3fcef 48px, #f7f8fa 48px, #f7f8fa 72px, #ffe8ec 72px, #ffe8ec 96px
 );
 
 	position: relative;

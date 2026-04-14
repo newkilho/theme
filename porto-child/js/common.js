@@ -1,3 +1,4 @@
+/* 워드프레스가 아닌 일반 페이지에서 다운로드 버튼이 필요함 */
 jQuery(document).ready(function() {
     var originalLink = jQuery('.btn-nosetup');
     
